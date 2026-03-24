@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: pavank9209/my-app:cec03181b40c837d10da45d6cb0d270d342b5057
+        image: pavank9209/my-app:bfd1c957feaa0775e2ca6e65874271e4ae422c11
         imagePullPolicy: Always
         ports:
         - containerPort: 80
